@@ -1,4 +1,5 @@
 # GoogleTrends
+Access to Google Trends: https://trends.google.com/trends/explore?date=now%201-d&q=ESG,governance&hl=en
 
 <img src='esgESG.png' width=640 height=480>
 
